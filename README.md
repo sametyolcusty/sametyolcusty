@@ -4,7 +4,9 @@
 Some example include:
 
 • Coordinated headcount forecasts with budget allocations, collaborating closely with HR and Finance departments and analyzing cost and personnel data.
+
 • Customer profiles were analyzed and a presentation was made to the management in order to reach a compromise between both the company and the counterparty.
+
 • Managed the implementation of customer dashboards (e.g. optimization, local conversion) ensuring precise tracking of key customer journey metrics
 
 I'm excited about the opportunities I can turn data into visuals that can be easily digested by small and large business owners alike.
