@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, thank you for visiting my LinkedIn profile. I am a Data Analyst with a total of 1.5 years of experience in data analysis, big data processing and data visualization. I have helped companies strategically use their data generating revenues in excess of $5 million.
+👋 Hi, thank you for visiting my GitHub profile. I am a Data Analyst with a total of 1.5 years of experience in data analysis, big data processing and data visualization. I have helped companies strategically use their data generating revenues in excess of $5 million.
 
 Some example include:
 
