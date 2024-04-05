@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi , I ' m a Data Analyst.<br><br>I work in the field of data and I am determined to progress in this field. I also publish <br>blog posts on my own website. I founded a company called SYS - Samet Yolcu Software <br>in 2023. I still work in various companies and try to create innovations in the field of data.<br>
+👋 Hi, thank you for visiting my LinkedIn profile. I am a Data Analyst with a total of 1.5 years of experience in data analysis, big data processing and data visualization. I have helped companies strategically use their data generating revenues in excess of $5 million.
+
+Some example include:
+
+• Coordinated headcount forecasts with budget allocations, collaborating closely with HR and Finance departments and analyzing cost and personnel data.
+• Customer profiles were analyzed and a presentation was made to the management in order to reach a compromise between both the company and the counterparty.
+• Managed the implementation of customer dashboards (e.g. optimization, local conversion) ensuring precise tracking of key customer journey metrics
+
+I'm excited about the opportunities I can turn data into visuals that can be easily digested by small and large business owners alike.
+
+You can reach me at 📩 info@sametyolcu.com
 
 
 ## 🌐 Socials:
